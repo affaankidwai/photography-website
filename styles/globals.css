@@ -9,3 +9,13 @@ html {
 .custom-img {
   background-image: url(https://images.unsplash.com/photo-1565004569929-4f400c11e9ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2109&q=80);
 }
+
+.my-img {
+  position: fixed;
+width: 1440px;
+height: 74px;
+left: 0px;
+top: 0px;
+
+background:  #626e48;
+}
