@@ -8,7 +8,7 @@ const Hero = ({ heading, message }) => {
       <div className="p-1 text-white z-[2] mt-[-5rem]">
         <h2 className="text-8xl font-bold">Hi, I'm Affaan Kidwai.</h2>
         <p className="py-5 text-xl">
-          I capture the natural beauty of our world through my lens.
+          I capture the natural beauty of our world through my lens!!
         </p>
         <button className=" px-8 py-2 border border-gray-400">Have a look around!</button>
       </div>
